@@ -54,7 +54,7 @@ Language Translator/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/galaxy-language-translator.git
+git clone https://github.com/sahithimeneni06/language-translator.git
 cd galaxy-language-translator
 ```
 2️⃣ Create Virtual Environment (Recommended)
